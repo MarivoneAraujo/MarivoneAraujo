@@ -1,7 +1,11 @@
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+
 <h1 align="center">Hi 👋, I'm Marivone Araújo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marivonearaujo&label=Profile%20views&color=0e75b6&style=flat" alt="marivonearaujo" /> </p>
+
+- I am a System Analysis and Development student looking for opportunities and collabaration in projects where I can improve my frontend skills and develop my backend knowledge.
 
 - 🌱 I’m currently learning **backend techs, such as Node and MySQL.**
 
