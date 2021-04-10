@@ -1,4 +1,4 @@
-<img src="https://previews.123rf.com/images/solarseven/solarseven1810/solarseven181000017/109271773-computer-programming-code-detecting-a-computer-virus-online-safety-hacking-and-digital-firewall-back.jpg">
+<img src="https://blog.creatopy.com/wp-content/uploads/2018/12/BestFileFormat.png">
 
 <h1 align="center">Hi 👋, I'm Marivone Araújo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
