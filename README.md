@@ -7,7 +7,7 @@
 
 - I am a System Analysis and Development student looking for opportunities and collabaration in projects where I can improve my frontend skills and develop my backend knowledge.
 
-- 🌱 I’m currently learning **backend techs, such as Node and MySQL.**
+- 🌱 I’m a React Jr. Frontend Developer currently learning **backend techs, such as Node and MySQL.**
 
 - 👨‍💻 My best projects are available at: [https://github.com/MarivoneAraujo/MyProjects](https://github.com/MarivoneAraujo/MyProjects)
 
