@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **backend techs, such as Node and MySQL.**
 
-- 👨‍💻 My best projects are available at [https://github.com/MarivoneAraujo/MyProjects](https://github.com/MarivoneAraujo/MyProjects)
+- 👨‍💻 My best projects are available at: [https://github.com/MarivoneAraujo/MyProjects](https://github.com/MarivoneAraujo/MyProjects)
 
-- 📫 How to reach me **marivone.vieira@gmail.com**
+- 📫 How to reach me: **marivone.vieira@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/marivone-vieira-araujo/](https://www.linkedin.com/in/marivone-vieira-araujo/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/marivone-vieira-araujo/](https://www.linkedin.com/in/marivone-vieira-araujo/)
 
-- ⚡ Fun fact **I'm a Journalist also with a Law degree.**
+- ⚡ Fun fact: **I'm a Journalist also with a Law degree.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
