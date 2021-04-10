@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact: **I'm a Journalist also with a Law degree. Also, and very importantly, I am a Coffee lover, concert obsessed and rock'n'roll lover.**
 
+<br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marivonearaujo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marivonearaujo" height="30" width="40" /></a>
@@ -25,6 +27,8 @@
 <a href="https://instagram.com/https://www.instagram.com/osgemeosaraujo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/osgemeosaraujo/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0gz3jfnfxjnv5x_p7q9qzq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc0gz3jfnfxjnv5x_p7q9qzq" height="30" width="40" /></a>
 </p>
+
+<br />
 
 <h3 align="left">🚀💻 Technologies, Languages & Tools:</h3>
 
