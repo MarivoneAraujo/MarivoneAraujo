@@ -1,6 +1,6 @@
 <img src="https://blog.creatopy.com/wp-content/uploads/2018/11/animation-effects-for-animated-banners-bannersnack.png">
 
-<h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Marivone Araújo</h1>
+<h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="waving hand" width="30" height="30">, I'm Marivone Araújo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marivonearaujo&label=Profile%20views&color=0e75b6&style=flat" alt="marivonearaujo" /> </p>
