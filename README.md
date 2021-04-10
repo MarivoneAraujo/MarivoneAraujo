@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/marivone-vieira-araujo/](https://www.linkedin.com/in/marivone-vieira-araujo/)
 
-- ⚡ Fun fact: **I'm a Journalist also with a Law degree. Also, and very importantly, I am a Coffee lover, concert obsessed and rock'n'roll fanatic.**
+- ⚡ Fun fact: **I'm a Journalist also with a Law degree. And, very importantly, I am a Coffee lover, concert obsessed and rock'n'roll fanatic.**
 
 <br />
 
