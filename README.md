@@ -41,15 +41,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marivonearaujo&show_icons=true&locale=en&layout=compact" alt="marivonearaujo" /></p>
 
 
-## my cool name
-
-### 🗣 My activity:
-
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
-
----
-
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
