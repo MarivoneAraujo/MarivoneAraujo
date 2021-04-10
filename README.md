@@ -1,4 +1,4 @@
-<img src="https://blog.creatopy.com/wp-content/uploads/2018/12/BestFileFormat.png">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.creatopy.com%2Feasy-to-create-animation-effects-for-ads%2F&psig=AOvVaw0jHVEX48-ijQzFEi1rUHB5&ust=1618161312613000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiqkOaW9O8CFQAAAAAdAAAAABAU">
 
 <h1 align="center">Hi 👋, I'm Marivone Araújo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
