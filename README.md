@@ -24,7 +24,7 @@
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/marivone-vieira-araujo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marivone-vieira-araujo/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marivone-vieira-araujo/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/marivone-vieira-araujo/" height="30" width="40" /></a>
 </p>
 <h3 align="left">🚀💻 Technologies, Languages & Tools:</h3>
 
@@ -35,5 +35,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marivonearaujo&show_icons=true&locale=en&layout=compact" alt="marivonearaujo" /></p>
 
-<p><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></p>
 
