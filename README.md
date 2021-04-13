@@ -35,6 +35,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marivonearaujo&show_icons=true&locale=en&layout=compact" alt="marivonearaujo" /></p>
 
-[![Marivone's GitHub stats](https://github-readme-stats.vercel.app/apiMarivoneAraujo=marivonearaujoanuraghazra)](https://github.com/marivonearaujo/github-readme-stats)
-
+<p><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></p>
 
