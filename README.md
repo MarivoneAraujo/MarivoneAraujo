@@ -9,7 +9,7 @@
 
 - I am a System Analysis and Development student looking for opportunities and collabaration in projects where I can improve my frontend skills and develop my backend knowledge.
 
-- 🌱 I’m a React Jr. Frontend Developer currently learning **backend techs, such as Node and MySQL.** at Labenu <a href="https://www.labenu.com.br/" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C560BAQGXX-pQE9ZghQ/company-logo_200_200/0/1588617268603?e=2159024400&v=beta&t=a88brKeePgoXCa0PpjouqjPLfp25RQso7CCWfbvQ9qg" alt="labenu" width="30" height="30"/> </a>
+- 🌱 I’m a React Jr. Frontend Developer currently learning **backend techs, such as Node and SQL.** at Labenu <a href="https://www.labenu.com.br/" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C560BAQGXX-pQE9ZghQ/company-logo_200_200/0/1588617268603?e=2159024400&v=beta&t=a88brKeePgoXCa0PpjouqjPLfp25RQso7CCWfbvQ9qg" alt="labenu" width="30" height="30"/> </a>
 - 👨‍💻 My best projects are available at: [https://github.com/MarivoneAraujo/MyProjects](https://github.com/MarivoneAraujo/MyProjects)
 
 - 📫 How to reach me: **marivone.vieira@gmail.com**
