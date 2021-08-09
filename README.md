@@ -13,7 +13,7 @@
 
 - 🍀 I’m currently working as a software analyst at **CROMAI** <a href="https://www.cromai.com/" target="_blank"> <img src="https://remotar.com.br/wp-content/uploads/2021/04/Cromai.jpeg" alt="Cromai" width="30" height="30"/> </a>
 
-- 💜 I frequently contribute as a React.js Frontend Developer for **Coletivo CODIVAS** <a href="https://codivas.com.br/" target="_blank"> <img src="https://codivas.com.br/assets/img/logo-codivas-horizontal.png.jpg" alt="Codivas" width="30" height="30"/> </a>
+- 💜 I frequently contribute as a React.js Frontend Developer for **Coletivo CODIVAS** <a href="https://codivas.com.br/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/70682078?s=280&v=4" alt="Codivas" width="30" height="30"/> </a>
 
 - 📌 I have attended Labenu Bootcamp <a href="https://www.labenu.com.br/" target="_blank"> <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eab0f1225c2d474a92656df_fav2_LabeNu_.png" alt="labenu" width="30" height="30"/> </a>
 
