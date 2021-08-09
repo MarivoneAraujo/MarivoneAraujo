@@ -15,7 +15,7 @@
 
 - 💜 I frequently contribute as a React.js Frontend Developer for **Coletivo CODIVAS** <a href="https://codivas.com.br/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodivas.com.br%2F&psig=AOvVaw0s_a71d0oLemBSaEpLOsD4&ust=1628620767678000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjz0qbLpPICFQAAAAAdAAAAABAD.jpg" alt="Codivas" width="30" height="30"/> </a>
 
-- 📌 I have attended Labenu Bootcamp <a href="https://www.labenu.com.br/" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C560BAQGXX-pQE9ZghQ/company-logo_200_200/0/1588617268603?e=2159024400&v=beta&t=a88brKeePgoXCa0PpjouqjPLfp25RQso7CCWfbvQ9qg" alt="labenu" width="30" height="30"/> </a>
+- 📌 I have attended Labenu Bootcamp <a href="https://www.labenu.com.br/" target="_blank"> <img src="https://codivas.com.br/assets/img/logo-codivas-horizontal.png" alt="labenu" width="30" height="30"/> </a>
 
 - 👨‍💻 My best projects are available at: [https://github.com/MarivoneAraujo/MyProjects](https://github.com/MarivoneAraujo/MyProjects)
 
