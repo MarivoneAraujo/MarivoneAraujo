@@ -11,7 +11,7 @@
 
 - 🌱 I’m a Fullstack developer
 
-- 🍀 I’m currently working as a software analyst at **CROMAI** <a href="https://www.cromai.com/" target="_blank"> <img src="https://remotar.com.br/wp-content/uploads/2021/04/Cromai.jpeg" alt="Cromai" width="30" height="30"/> </a>
+- 🍀 I’m currently working as a software analyst at **CROMAI** <a href="https://www.cromai.com/" target="_blank"> <img src="https://remotar.com.br/wp-content/uploads/2021/04/Cromai.jpeg" alt="Cromai" width="30" height="40"/> </a>
 
 - 💜 I frequently contribute as a React.js Frontend Developer for **Coletivo CODIVAS** <a href="https://codivas.com.br/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/70682078?s=280&v=4" alt="Codivas" width="30" height="30"/> </a>
 
