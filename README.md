@@ -11,7 +11,7 @@
 
 - 🌱 I’m a developer!
 
-- 🍀 I’m currently working as a web developer at IBM </a>
+- 🍀 I’m currently working as a web developer for IBM. </a>
 
 - 📌 I have attended Labenu Bootcamp <a href="https://www.labenu.com.br/" target="_blank"> <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eab0f1225c2d474a92656df_fav2_LabeNu_.png" alt="labenu" width="30" height="30"/> </a>
 
