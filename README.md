@@ -11,9 +11,7 @@
 
 - 🌱 I’m a Fullstack developer
 
-- 🍀 I’m currently working as a software analyst at **CROMAI** <a href="https://www.cromai.com/" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEo9YT_Fg3qvg/company-logo_200_200/0/1627493439504?e=2159024400&v=beta&t=P_lyhsHlsz6dmAZ-ogVItjshLHw034URIn2aCKFcFrE" alt="Cromai" width="30" height="30"/> </a>
-
-- 💜 I frequently contribute as a React.js Frontend Developer for **Coletivo CODIVAS** <a href="https://codivas.com.br/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/70682078?s=280&v=4" alt="Codivas" width="40" height="40"/> </a>
+- 🍀 I’m currently working as a web developer at IBM </a>
 
 - 📌 I have attended Labenu Bootcamp <a href="https://www.labenu.com.br/" target="_blank"> <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eab0f1225c2d474a92656df_fav2_LabeNu_.png" alt="labenu" width="30" height="30"/> </a>
 
