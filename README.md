@@ -9,7 +9,7 @@
 
 - I am a System Analysis and Development student looking for opportunities and collaboration in projects where I can improve my frontend skills and develop my backend knowledge.
 
-- 🌱 I’m a Fullstack developer
+- 🌱 I’m a developer!
 
 - 🍀 I’m currently working as a web developer at IBM </a>
 
