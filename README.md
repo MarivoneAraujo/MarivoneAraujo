@@ -15,7 +15,7 @@
 
 - 📌 I have attended Labenu Bootcamp <a href="https://www.labenu.com.br/" target="_blank"> <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eab0f1225c2d474a92656df_fav2_LabeNu_.png" alt="labenu" width="30" height="30"/> </a>
 
-- 👨‍💻 My best projects are available at: [https://github.com/MarivoneAraujo/MyProjects](https://github.com/MarivoneAraujo/MyProjects)
+- 👨‍💻 AZ900 Microsoft certified. My best projects are available at: [https://github.com/MarivoneAraujo/MyProjects](https://github.com/MarivoneAraujo/MyProjects)
 
 - 📫 How to reach me: **marivone.vieira@gmail.com**
 
