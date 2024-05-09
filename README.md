@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marivonearaujo&label=Profile%20views&color=0e75b6&style=flat" alt="marivonearaujo" /> </p>
 
-- I am a System Analysis and Development student looking for opportunities and collaboration in projects where I can improve my frontend skills and develop my backend knowledge.
+- I am a System Analysis and Development graduate looking for opportunities and collaboration in projects where I can improve my frontend skills and develop my backend knowledge.
 
 - 🌱 I’m a developer!
 
